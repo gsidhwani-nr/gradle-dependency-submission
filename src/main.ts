@@ -107,9 +107,9 @@ async function run(): Promise<void> {
 
   const snapshot = new Snapshot(
     {
-      name: 'mikepenz/gradle-dependency-submission',
-      url: 'https://github.com/mikepenz/gradle-dependency-submission',
-      version: '0.8.2'
+      name: 'gsidhwani_nr/gradle-dependency-submission',
+      url: 'https://github.com/gsidhwani_nr/gradle-dependency-submission',
+      version: 'v1.0'
     },
     github.context,
     {
